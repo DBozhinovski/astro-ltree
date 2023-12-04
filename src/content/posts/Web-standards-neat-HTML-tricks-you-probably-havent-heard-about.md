@@ -6,6 +6,6 @@ description: >-
 url: >-
   https://darko.io/posts/web-standards-neat-html-tricks-you-probably-havent-heard-about/
 image: /adventure-island.jpg
-date: 2023-12-14T23:00:00.000Z
+date: 2023-11-14T23:00:00.000Z
 ---
 
